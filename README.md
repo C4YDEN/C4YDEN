@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @C4YDEN
-- 👀 I’m interested in beeing a web developer
-- 🌱 I’m currently learning about HTML and JAVASCRIPT
+- ⭐ Me llamo C4YDEN 
+- 💻 Interesado en la programacion
+- 🌱 Aprendiendo acerca de HTML y JAVASCRIPT
 - 📫 IG : cxy_6969
 
 <!---
